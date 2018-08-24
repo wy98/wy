@@ -8,9 +8,9 @@ public class TestMain {
 }
  public static void aa(){
 	 System.out.println(32133);	 
+     System.out.println(999);
 
-	 System.out.println("www");
-	 System.out.println(32133);	 
+	 System.out.println(3343);	  
 	 UserController.uu();
  }
 }
